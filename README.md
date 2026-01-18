@@ -19,7 +19,6 @@
 <ul style="font-size:13px; line-height:1.6; color:#444; padding-left:18px;">
   <li>Valid for offline shopping at any store.</li>
   <li>Maximum of 3 items per redemption.</li>
-  <li>Total purchase value must not exceed IDR 2,500,000.</li>
   <li>Voucher must be redeemed together with the issuer for approval.</li>
   <li>Non-transferable and cannot be exchanged for cash.</li>
   <li>Valid until 25 January 2026.</li>
