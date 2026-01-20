@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A213DC00-643D-4DA0-BA51-142D47D7A038.jpeg" width="520" />
+  <img src="8C027D8A-63D9-468E-BDB6-86B282086C79.jpeg" width="520" />
 </p>
 
 <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 24px 0;">
