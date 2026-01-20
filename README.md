@@ -6,7 +6,6 @@
 
 <p style="font-size:14px; line-height:1.6; color:#333;">
   <strong>Issued To:</strong> Joe<br>
-  <strong>Voucher Value:</strong> IDR 2,500,000<br>
   <strong>Valid Until:</strong> 25 January 2026
 </p>
 
